@@ -4,22 +4,6 @@ This project demonstrates the use of **Spring Framework's Core Features**, parti
 
 ---
 
-## 📋 Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [Expected Output](#expected-output)
-- [Key Components](#key-components)
-- [Learning Objectives](#learning-objectives)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Author](#author)
-- [License](#license)
-
----
 
 ## 🛠️ Introduction
 
